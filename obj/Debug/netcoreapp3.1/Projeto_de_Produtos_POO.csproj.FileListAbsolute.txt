@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\bin\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_de_Produtos_POO\obj\Debug\netcoreapp3.1\Projeto_de_Produtos_POO.genruntimeconfig.cache
