@@ -69,7 +69,9 @@ namespace Projeto_de_Produtos_POO.classes
                     break;
 
                     case 0:
-                        System.Console.WriteLine("SAIR DO APP");
+                        Console.ForegroundColor = ConsoleColor.Cyan;
+                        System.Console.WriteLine("APP ENCERRADO !");
+                        Console.ResetColor();
                     break;
 
                     default:

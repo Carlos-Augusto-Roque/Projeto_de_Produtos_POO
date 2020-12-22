@@ -18,10 +18,10 @@ namespace Projeto_de_Produtos_POO.classes
 
             Marca novaMarca = new Marca();
             
-            System.Console.WriteLine("Digite o código da marca: ");
+            System.Console.Write("CÓDIGO DA MARCA: ");
             novaMarca.Codigo = int.Parse(Console.ReadLine());
 
-            System.Console.WriteLine("Digite o nome da marca: ");
+            System.Console.Write("NOME DA MARCA: ");
             novaMarca.NomeMarca = Console.ReadLine();
 
             novaMarca.DataCadastro = DateTime.UtcNow;
@@ -37,9 +37,11 @@ namespace Projeto_de_Produtos_POO.classes
 
             foreach (Marca item in Marcas) //LEITURA DE TODOS ITENS DENTRO DA LISTA
             {
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 System.Console.WriteLine($"CÓDIGO: {item.Codigo}");//EXIBINDO O CÓDIGO
                 System.Console.WriteLine($"MARCA: {item.NomeMarca}");//EXIBINDO O NOME  
                 System.Console.WriteLine($"DATA DO CADASTRO: {item.DataCadastro}");//E EXIBINDO A DATA DO CADASTO DA MARCA
+                Console.ResetColor();
             }
 
         }
